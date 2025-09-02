@@ -1,0 +1,17 @@
+[
+  {
+    "question": "¿Cuál es la capital de Francia?",
+    "options": ["Madrid", "París", "Roma", "Berlín"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el resultado de 2 + 2?",
+    "options": ["3", "4", "5", "22"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué gas respiran los humanos?",
+    "options": ["Oxígeno", "Hidrógeno", "Nitrógeno", "CO2"],
+    "answer": 0
+  }
+]
