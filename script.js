@@ -4,7 +4,8 @@ const MODULE_FILES = [
   "data/modulo-3.json"
 ];
 const ANALYSIS_FILE = "data/analisis-estudio.json";
-const STORAGE_KEY = "biogeeks-biofisica-progress-v1";
+const STORAGE_KEY = "biofisica-progress-v4";
+const QUESTIONS_PER_MODULE = 5;
 
 const state = {
   modules: [],
