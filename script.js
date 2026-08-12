@@ -4,7 +4,8 @@ const MODULE_FILES = [
   "data/modulo-3.json"
 ];
 const ANALYSIS_FILE = "data/analisis-estudio.json";
-const STORAGE_KEY = "biogeeks-biofisica-progress-v1";
+const STORAGE_KEY = "biofisica-progress-v2";
+const QUESTIONS_PER_MODULE = 5;
 
 const state = {
   modules: [],
@@ -59,6 +60,19 @@ function moduleHistoricalGrade(moduleNumber) {
   return state.analysis?.modules?.find(m => m.module === moduleNumber)?.grade_percent ?? null;
 }
 
+function shuffleQuestions(questions) {
+  const copy = [...questions];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function selectQuestionsForAttempt(mod) {
+  return shuffleQuestions(mod.questions).slice(0, QUESTIONS_PER_MODULE);
+}
+
 async function init() {
   try {
     const [modules, analysis] = await Promise.all([
@@ -89,7 +103,7 @@ function renderModules() {
 
     node.querySelector(".module-number").textContent = mod.module;
     node.querySelector(".module-title").textContent = mod.title;
-    node.querySelector(".module-meta").textContent = `${mod.questions.length} preguntas`;
+    node.querySelector(".module-meta").textContent = `${QUESTIONS_PER_MODULE} preguntas por intento · banco de ${mod.questions.length}`;
     node.querySelector(".module-score").textContent =
       local ? `Tu último intento: ${local.percent}%` :
       historical != null ? `Referencia previa: ${historical}%` : "Sin intento guardado";
@@ -121,7 +135,7 @@ function renderStudySummary() {
 
 function startModule(mod, customQueue = null) {
   state.currentModule = mod;
-  state.queue = customQueue || [...mod.questions];
+  state.queue = customQueue || selectQuestionsForAttempt(mod);
   state.currentIndex = 0;
   state.answers = [];
   state.lastErrors = [];
