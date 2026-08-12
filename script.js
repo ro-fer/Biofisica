@@ -4,8 +4,7 @@ const MODULE_FILES = [
   "data/modulo-3.json"
 ];
 const ANALYSIS_FILE = "data/analisis-estudio.json";
-const STORAGE_KEY = "biofisica-progress-v2";
-const QUESTIONS_PER_MODULE = 5;
+const STORAGE_KEY = "biogeeks-biofisica-progress-v1";
 
 const state = {
   modules: [],
@@ -60,6 +59,7 @@ function moduleHistoricalGrade(moduleNumber) {
   return state.analysis?.modules?.find(m => m.module === moduleNumber)?.grade_percent ?? null;
 }
 
+
 function shuffleQuestions(questions) {
   const copy = [...questions];
   for (let i = copy.length - 1; i > 0; i--) {
@@ -70,7 +70,7 @@ function shuffleQuestions(questions) {
 }
 
 function selectQuestionsForAttempt(mod) {
-  return shuffleQuestions(mod.questions).slice(0, QUESTIONS_PER_MODULE);
+  return shuffleQuestions(mod.questions).slice(0, Math.min(QUESTIONS_PER_MODULE, mod.questions.length));
 }
 
 async function init() {
