@@ -1,0 +1,143 @@
+{
+  "generated_for": "BioGeeks",
+  "modules": [
+    {
+      "module": 1,
+      "name": "Metabolismo celular e interacción ligando-Rc",
+      "source": "2024-10-05 - Módulo 1_ Metabolismo celular e interacción ligando-Rc.pdf",
+      "grade_percent": 80.6,
+      "raw_points": "84,6/105,0",
+      "status": "Aprobado",
+      "review_priority": "media"
+    },
+    {
+      "module": 2,
+      "name": "Compartimientos biológicos y transporte",
+      "source": "2024-10-05 - Módulo 2_ Compartimientos biológicos y transporte.pdf",
+      "grade_percent": 88.3,
+      "raw_points": null,
+      "status": "Aprobado - Sobresaliente",
+      "review_priority": "baja-media"
+    },
+    {
+      "module": 3,
+      "name": "Equilibrios iónicos",
+      "source": "2024-10-05 - Módulo 3_ Equilibrios ionicos.pdf",
+      "grade_percent": 55.0,
+      "raw_points": null,
+      "status": "Aprobado - Correcto",
+      "review_priority": "alta"
+    }
+  ],
+  "simple_average_percent": 74.6,
+  "review_topics": {
+    "module_1": {
+      "priority": "media",
+      "topics": [
+        {
+          "topic": "Biomoléculas",
+          "why": "En el intento 2024 aparece una respuesta parcialmente correcta en la pregunta de biomoléculas.",
+          "focus": [
+            "estructura primaria y secundaria de proteínas",
+            "puentes de hidrógeno entre hebras de ADN",
+            "polaridad del ATP",
+            "ribosa vs desoxirribosa"
+          ]
+        },
+        {
+          "topic": "Cinética enzimática / Michaelis-Menten",
+          "why": "El intento 2024 contiene una pregunta parcialmente correcta con Km, Vmax y conversión de unidades.",
+          "focus": [
+            "relación entre Km y Vmax/2",
+            "cálculo de [S] a partir de v",
+            "inhibición competitiva y no competitiva",
+            "interpretación de curvas v vs [S]"
+          ]
+        },
+        {
+          "topic": "Sustancias polares y anfipáticas",
+          "why": "La pregunta sobre sustancias polares quedó parcialmente correcta en el intento 2024.",
+          "focus": [
+            "solubilidad de azúcares",
+            "extremos polares en moléculas anfipáticas",
+            "solubilidad en hidrocarburos",
+            "diferencia entre polaridad y carga neta"
+          ]
+        }
+      ]
+    },
+    "module_2": {
+      "priority": "baja-media",
+      "topics": [
+        {
+          "topic": "GLUT-1 y transporte facilitado",
+          "why": "La pregunta de GLUT-1 quedó parcialmente correcta en 2024 por seleccionar demasiadas opciones.",
+          "focus": [
+            "Km del transportador",
+            "porcentaje de Vmax",
+            "dirección del flujo según gradiente de glucosa"
+          ]
+        },
+        {
+          "topic": "Disminución de Na+ extracelular",
+          "why": "La pregunta de hiponatremia/Na+ extracelular quedó parcialmente correcta en 2024.",
+          "focus": [
+            "osmolaridad intersticial e intravascular",
+            "movimiento de agua hacia el LIC",
+            "cambios de volumen celular"
+          ]
+        }
+      ]
+    },
+    "module_3": {
+      "priority": "alta",
+      "topics": [
+        {
+          "topic": "Nernst y fuerza impulsora",
+          "why": "La primera pregunta quedó parcialmente correcta (15/30) en 2024.",
+          "focus": [
+            "signo del potencial de equilibrio",
+            "polo positivo/negativo",
+            "fuerza impulsora Vm - Eion",
+            "dirección del flujo para K+ y Mg2+"
+          ]
+        },
+        {
+          "topic": "Potencial de membrana de reposo",
+          "why": "La pregunta quedó incorrecta (0/20) en 2024.",
+          "focus": [
+            "diferencia entre Nernst y potencial de reposo",
+            "permeabilidades relativas",
+            "efecto de apertura de canales",
+            "efecto de [K+] extracelular"
+          ]
+        },
+        {
+          "topic": "Equilibrio de Donnan y contrapresión osmótica",
+          "why": "La pregunta quedó parcialmente correcta (10/20) en 2024.",
+          "focus": [
+            "macromoléculas no difusibles cargadas y neutras",
+            "distribución de Cl-",
+            "diferencia de potencial permanente",
+            "presión osmótica en equilibrio"
+          ]
+        },
+        {
+          "topic": "Cálculo de potenciales de equilibrio",
+          "why": "La tabla de Nernst quedó correcta (30/30); conviene conservarlo como tema fuerte.",
+          "focus": [
+            "E_Na",
+            "E_K",
+            "signo y localización de polos"
+          ],
+          "strength": true
+        }
+      ]
+    }
+  },
+  "interpretation": {
+    "highest_priority_module": 3,
+    "strongest_module_by_2024_grade": 2,
+    "note": "Las prioridades se basan en las calificaciones y feedback explícito de los cuestionarios revisados."
+  }
+}

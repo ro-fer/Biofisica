@@ -1,0 +1,772 @@
+{
+  "schema_version": "1.0",
+  "module": 1,
+  "title": "Metabolismo celular e interacción ligando-Rc",
+  "source_pdf": "Módulo 1_ Metabolismo celular e interacción ligando-Rc _ Test.pdf",
+  "question_count": 22,
+  "questions": [
+    {
+      "id": "m1_q01",
+      "module": 1,
+      "number": 1,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Marque la/s respuesta/s correcta/s La respiración celular: Seleccione una o más de una:",
+      "options": [
+        "En la respiración de la glucosa, la oxidación es un proceso exergónico que libera energía que es utilizada para la realización de una reacción endergónica, la síntesis de ATP a partir de ADP y P.",
+        "Solo los hidratos de carbono pueden respirarse.",
+        "El O se oxida para formar H2O.",
+        "En los mamíferos, el O del HO proviene del O contenido en la sangre",
+        "En los mamíferos, el CO producido en la respiración difunde hacia la sangre."
+      ],
+      "correct_option_indices": [
+        0,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        1
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q02",
+      "module": 1,
+      "number": 2,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Las biomoléculas:",
+      "options": [
+        "El ADN es un polímero que contiene ribosa",
+        "La estructura secundaria de las proteínas esta fundamentalmente estabilizada por uniones puente de hidrogeno.",
+        "Las dos hebras del ADN (doble cadena) están unidas por uniones puente de hidrógeno",
+        "La estructura primaria de las proteínas esta dada por uniones covalentes entre aminoácidos.",
+        "El ATP es una molécula no polar.",
+        "El ARN contiene timidina."
+      ],
+      "correct_option_indices": [
+        1,
+        2,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        2
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q03",
+      "module": 1,
+      "number": 3,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s El agua:",
+      "options": [
+        "Produce una fuerza empuje en un cuerpo sumergido mayor que el aceite.",
+        "Pura no conduce la electricidad",
+        "La energía cinética de sus moléculas se ve aumentada por las uniones puente de hidrogeno.",
+        "Pura, tiene un pH ligeramente básico.",
+        "Aumenta su densidad entre 0 y 4 C."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        3
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q04",
+      "module": 1,
+      "number": 4,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correctas",
+      "options": [
+        "La reacción: Glucógeno + glucosa → glucógeno + HO es anabólica y con cambio de energía libre positivo.",
+        "La actividad de una enzima es la velocidad a la que desaparece el sustrato o la velocidad a la que aparece un producto.",
+        "La unión entre la enzima y su sustrato es covalente.",
+        "Las enzimas tienen estructura primaria.",
+        "Las enzimas cambian la energía libre de una reacción."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        4
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q05",
+      "module": 1,
+      "number": 5,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Señale la/s respuesta/s correcta/s (puede haber más de una). Se tiene una enzima EZ que cataliza una reacción A → B + C. Para una dada concentración de EZ, y a una dada temperatura y pH, se verifica que 4,5 µmol de A desaparecen del medio de reacción por segundo. La Vmax de la EZ es de 0.3 mmol/min y con [A] = 20mM la velocidad es de 150 µmol/min. Entonces:",
+      "options": [
+        "Si se agrega al medio de reacción un inhibidor competitivo la V= 2,5 µmol/s se alcanza cuando [A] = 20 mM",
+        "Si desaparecen 4,5 µmol de A por segundo entonces [A] = 160 mM.",
+        "Para concentraciones de A entre 0 y 20 mM el comportamiento de la curva de Vmax vs [A] es lineal.",
+        "Si desaparecen 4,5 µmol de A por segundo entonces en el medio de reacción aparecen 4,5 µmol de C por segundo.",
+        "Para concentraciones de A alrededor de 170 mM el comportamiento de la curva de Vmax vs [A] no es lineal.",
+        "Si desaparecen 4,5 µmol de A por segundo entonces [A] = 180 mM",
+        "Si la temperatura cambia, y el pH y la concentración de la EZ se mantienen constantes, entonces el Km es el mismo."
+      ],
+      "correct_option_indices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        5,
+        6
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q06",
+      "module": 1,
+      "number": 6,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Las biomoléculas:",
+      "options": [
+        "El agregado de moléculas anfipáticas al agua incrementa la tensión superficial del agua.",
+        "Los ácidos grasos saturados contienen dobles enlaces covalentes.",
+        "Los ácidos grasos deben su función acida al grupo carboxilo (-COOH).",
+        "Los jabones y los detergentes son moléculas anfipáticas.",
+        "La síntesis de glucógeno requiere de la hidrolisis de ATP.",
+        "Los fosfolípidos insaturados de la membrana plasmática disminuyen la fluidez de la membrana."
+      ],
+      "correct_option_indices": [
+        2,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        7
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 1 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1wnobW5YnAVJ6d890txoCa5uEiUpebCi6",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q07",
+      "module": 1,
+      "number": 7,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correctas El siguiente grafico muestra la velocidad máxima de una EZ (tasa de reacción) en función de la concentración de sustrato. También se muestran las curvas en presencia de una sustancia A (línea verde) y en presencia de una sustancia B (línea azul). La EZ “normal” es la EZ en ausencia de A y de B.",
+      "options": [
+        "La EZ normal tiene más afinidad por el sustrato que la EZ con sustancia A.",
+        "La curva azul indica que la EZ es una EZ alostérica.",
+        "La sustancia B es un inhibidor no competitivo de la EZ.",
+        "Si se agrega una sustancia A’ con mayor afinidad por la EZ que la sustancia A, se llegaría a la misma velocidad máxima con una concentración de sustrato menor.",
+        "Si se agrega una sustancia A’ con mayor afinidad por la EZ que la sustancia A, la curva verde se desplazaría hacia la izquierda."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        2
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        8
+      ],
+      "media": [
+        "assets/module_01_page_08_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q08",
+      "module": 1,
+      "number": 8,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Una sustancia polar:",
+      "options": [
+        "Solubiliza triglicéridos",
+        "Las moléculas anfipáticas tienen un extremo polar",
+        "Solubiliza azucares.",
+        "Siempre forma uniones puente de hidrogeno con otras moléculas.",
+        "No puede ser disuelta en hidrocarburos.",
+        "Debe tener carga neta, positiva o negativa.",
+        "No debe presentar átomos con densidades de carga importantes (negativas o positivas)."
+      ],
+      "correct_option_indices": [
+        1,
+        2,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        9
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q09",
+      "module": 1,
+      "number": 9,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s (puede haber mas de una) En relación a la fotosíntesis puede decirse que:",
+      "options": [
+        "El CO se oxida.",
+        "El O se desprende del CO.",
+        "El HO representa una sustancia oxidable",
+        "No todas las bacterias fotosintéticas utilizan HO como sustrato",
+        "El O libre atmosférico proviene del HO"
+      ],
+      "correct_option_indices": [
+        2,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        10
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q10",
+      "module": 1,
+      "number": 10,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Una reacción es catalizada por una enzima cuya Km es de 20 mM y la velocidad máxima llega a 6 micromolar/seg. Si la velocidad de la reacción medida en producto producido por unidad de tiempo es 150 micromolar/min entonces:",
+      "options": [
+        "Para la velocidad de 150 micromolar/min la concentración de sustrato es de 20 mM.",
+        "Para la concentración de sustrato de 10 mM la velocidad es < 180 micromolar/min.",
+        "Para una concentracion de sustrato de 60 mM la velocidad es cercana a 3umol/s.",
+        "Para la velocidad de 150 micromolar/min la concentración de sustrato es de 14.29 mM.",
+        "Para la concentración de sustrato de 20 mM la velocidad es de 3 micromolar/seg"
+      ],
+      "correct_option_indices": [
+        1,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        11
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 1: Metabolismo celular e interacción ligando-Rc",
+          "year": 2024,
+          "drive_file_id": "1CyAntNRL-LOZN4ndLl4SrTK9VRjI01P1",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q11",
+      "module": 1,
+      "number": 11,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s La fotosíntesis:",
+      "options": [
+        "El O2 producido proviene del CO2 atmosferico",
+        "Solo ocurre en las plantas",
+        "Tiene un cambio de energìa libre positivo",
+        "La cantidad de moles de O2 producido es la misma que la de CO2 consumido",
+        "El C del carbohidrato producido proviene del CO2 atmosferico"
+      ],
+      "correct_option_indices": [
+        2,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        12
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q12",
+      "module": 1,
+      "number": 12,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s (puede haber mas de una) Se tiene una enzima EZ que cataliza una reacción S (sustrato) → P (producto). La velocidad de la reacción (V) medida en P producido por unidad de tiempo es 150 micromolar/min. La velocidad máxima (Vmax) llega a 6 micromolar/seg y la constante de afinidad (Km) es 20 mM.",
+      "options": [
+        "La [S] presente a la velocidad V es de 14,29 mM.",
+        "Si en el medio de reacción se agregara un inhibidor competitivo no se alcanzaría la misma Vmax a ninguna concentración de sustrato.",
+        "Si en el medio de reacción se agregara un inhibidor no competitivo no se alcanzaría la misma Vmax a ninguna concentración de sustrato.",
+        "Si el Km fuera de 15 mM la Vmax/2 se alcanzaría a [S] = 15 mM.",
+        "Entre 0 y 20 mM de [S] la función V vs [S] no se asemejaría a una función lineal."
+      ],
+      "correct_option_indices": [
+        0,
+        2,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        13
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q13",
+      "module": 1,
+      "number": 13,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Las biomoléculas:",
+      "options": [
+        "El ATP es una molécula apolar.",
+        "La estructura primaria de las proteínas esta dada por uniones covalentes entre aminoácidos.",
+        "El ADN es un polímero que contiene ribosa.",
+        "La estructura secundaria de las proteínas esta fundamentalmente estabilizada por uniones puente de hidrogeno.",
+        "Las dos hebras del ADN (doble cadena) están unidas por uniones puente de hidrógeno."
+      ],
+      "correct_option_indices": [
+        1,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        14
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q14",
+      "module": 1,
+      "number": 14,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correctas Las biomoléculas:",
+      "options": [
+        "Los hidratos de carbono contienen abundantes grupos oxidrilo.",
+        "El colesterol presente en la membrana plasmática influye en la fluidez de la membrana.",
+        "La alta electronegatividad del C produce uniones covalentes muy estables.",
+        "Los triglicéridos se forman a partir de un alcohol de 2 C (etanol) y 3 ácidos grasos.",
+        "Las hormonas esteroides son hidrofílicas."
+      ],
+      "correct_option_indices": [
+        0,
+        1
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        15
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q15",
+      "module": 1,
+      "number": 15,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s La reacción de combustión de la madera:",
+      "options": [
+        "Produce agua.",
+        "Requiere de energía de activación.",
+        "Tiene una cte. de equilibrio muy baja.",
+        "Al igual que el proceso de respiración celular de la glucosa, requiere de catalizadores.",
+        "A diferencia que el proceso de respiración celular de la glucosa, no produce agua."
+      ],
+      "correct_option_indices": [
+        0,
+        1
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        16
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q16",
+      "module": 1,
+      "number": 16,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Marque la/s respuesta/s correcta/s La respiración celular: Seleccione una o más de una",
+      "options": [
+        "En los mamíferos, el CO producido en la respiración difunde hacia la sangre.",
+        "En los mamíferos, el O del H O proviene del O contenido en la sangre.",
+        "Solo los hidratos de carbono pueden respirarse.",
+        "El O se oxida para formar H2O.",
+        "En la respiración de la glucosa, la oxidación es un proceso exergónico que libera energía que es utilizada para la realización de una reacción endergónica, la síntesis de ATP a partir de ADP y P."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        17
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q17",
+      "module": 1,
+      "number": 17,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s celular e interacción ligando-Rc correctas El siguiente grafico muestra la velocidad máxima de una EZ (tasa de reacción) en función de la concentración de sustrato. También se muestran las curvas en presencia de una sustancia A (línea verde) y en presencia de una sustancia B (línea azul). La EZ “normal” es la EZ en ausencia de A y de B.",
+      "options": [
+        "Si se agrega una sustancia A’ con mayor afinidad por la EZ que la sustancia A, la curva verde se desplazaría hacia la izquierda",
+        "Si se agrega una sustancia A’ con mayor afinidad por la EZ que la sustancia A, se llegaría a la misma velocidad máxima con una concentración de sustrato menor.",
+        "La curva azul indica que la EZ es una EZ alostérica.",
+        "La sustancia B es un inhibidor no competitivo de la EZ.",
+        "La EZ normal tiene más afinidad por el sustrato que la EZ con sustancia A."
+      ],
+      "correct_option_indices": [
+        2,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        18,
+        19
+      ],
+      "media": [
+        "assets/module_01_page_18_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q18",
+      "module": 1,
+      "number": 18,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s ligando-Rc correctas La reacción A + B ↔ C + D tiene una cte de equilibrio Keq a 37 C",
+      "options": [
+        "Si se agregara mayor cantidad de A en la reacción, la Keq cambiaría.",
+        "Si agregara una enzima que catalice la reacción, la Keq cambiaría.",
+        "Si la reacción se produjera a 40 C, la Keq cambiaría.",
+        "Si la reacción fuera la combustión de la madera, la Keq sería muy elevada."
+      ],
+      "correct_option_indices": [
+        2,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        20
+      ],
+      "media": [
+        "assets/module_01_page_20_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-11-27 M1",
+          "year": 2021,
+          "drive_file_id": "1t6kiT0rYjpzDThzEglFaDlbPV8pEQyaL",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q19",
+      "module": 1,
+      "number": 19,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/S La respiración celular:",
+      "options": [
+        "El oxígeno se oxida y forma agua.",
+        "En los productos, el O del H2O proviene de la biomolécula respirada.",
+        "De un monosacárido es un proceso catabólico",
+        "De un lípido es un proceso endergónico acoplado a un proceso exergónico, que es la síntesis de nucleótidos de alta energía.",
+        "Requiere biomoléculas como sustrato."
+      ],
+      "correct_option_indices": [
+        2,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        21
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 1 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1wnobW5YnAVJ6d890txoCa5uEiUpebCi6",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q20",
+      "module": 1,
+      "number": 20,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/S Las enzimas:",
+      "options": [
+        "Alostéricas pueden presentar inhibición competitiva.",
+        "No alostéricas pueden presentar inhibición no competitiva.",
+        "La inhibición no competitiva incrementa la Km y no modifica la Vmax.",
+        "Tanto la inhibición competitiva como la no competitiva incrementan la Km.",
+        "No alostéricas pueden tener más de un sitio activo"
+      ],
+      "correct_option_indices": [
+        0
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        22
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 1 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1wnobW5YnAVJ6d890txoCa5uEiUpebCi6",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q21",
+      "module": 1,
+      "number": 21,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s El agua:",
+      "options": [
+        "De nuestro organismo, al evaporarse, elimina mucho calor de nuestro organismo.",
+        "Una dada masa de agua ocupa mas espacio a 4 C que a 0 C.",
+        "Si es pura, su concentración de H = 10^7 M.",
+        "Tiene menos tensión superficial que el mercurio.",
+        "Asciende por capilaridad en un tubo de vidrio porque sus fuerzas cohesivas > fuerzas adhesivas."
+      ],
+      "correct_option_indices": [
+        0,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        23
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 1 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1wnobW5YnAVJ6d890txoCa5uEiUpebCi6",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m1_q22",
+      "module": 1,
+      "number": 22,
+      "source_display_total": 10,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s",
+      "options": [
+        "Al alcanzar los 12 C la glicerina ha liberado 13,92 calorías.",
+        "El alcohol etílico tarda más tiempo en alcanzar los 12 C.",
+        "Al alcanzar los 12 C el alcohol etílico ha liberado 12 calorías.",
+        "Las dos sustancias han tardado el mismo tiempo en alcanzar los 12 C",
+        "Para elevar la temperatura del alcohol etílico de 20 a 28 C habría que entregar 14,4 cal."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        24
+      ],
+      "media": [
+        "assets/module_01_page_24_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 1 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1wnobW5YnAVJ6d890txoCa5uEiUpebCi6",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    }
+  ],
+  "answer_key_status": {
+    "verified_questions": 22,
+    "total_questions": 22,
+    "indexing": "zero_based"
+  },
+  "provenance_note": "Las claves se cargaron únicamente cuando un archivo de revisión del Drive indicaba explícitamente la respuesta correcta; no se completaron por inferencia teórica."
+}

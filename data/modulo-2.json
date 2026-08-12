@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "module": 2,
+  "title": "Compartimientos biológicos y transporte",
+  "source_pdf": "Módulo 2_ Compartimientos biológicos y transporte _ Test.pdf",
+  "question_count": 6,
+  "questions": [
+    {
+      "id": "m2_q01",
+      "module": 2,
+      "number": 1,
+      "source_display_total": 5,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Una persona tiene una volemia de 6 lts, un hematocrito de 42% y una concentración de albúmina de 3g/100 ml de plasma. Su temperatura corporal es de 37 C. Se le inyectan en IV 150 ml de una solución de albúmina 12% P/V. Si consideramos que toda la solución inyectada permanece en el espacio intravascular entonces: Datos: PM albumina 67000; R (cte gases): 0,082 ltxatm/Kxmol. Recordar: la presión oncótica es la presión osmótica generada por proteínas; el hematocrito es el % del volumen sanguíneo ocupado por los elementos figurados.",
+      "options": [
+        "La presión oncótica antes de la inyección es de 113,88 x 10^-4 atm.",
+        "La presión oncótica luego de la inyección es de 130,86 x 10^-4 atm.",
+        "La concentración inicial de albumina en plasma es de 4,478 x 10^-4 M",
+        "El cambio de presión oncótica generado por la inyección es de 13,98 x 10 ^-4 atm.",
+        "La cantidad inicial total de albumina en el espacio vascular es de 75,6 g"
+      ],
+      "correct_option_indices": [
+        0,
+        2,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        2,
+        3
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 2: Compartimientos biológicos y transporte",
+          "year": 2024,
+          "drive_file_id": "1YdYi9CHilvTqFDgFtUDiCF0oExqxYW4I",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m2_q02",
+      "module": 2,
+      "number": 2,
+      "source_display_total": 5,
+      "type": "multiple",
+      "prompt": "Señale la/s respuesta/s correcta/s (puede haber más de una) Se infunde a un individuo de 60 Kg, por vía endovenosa, 2 lts de una solución de NaCl 0,15 M. La osmolaridad del plasma es de 296 mosm/l. Se considera que el volumen de agua total (V ) es 0,6 del peso corporal PC, el LIC es 2/3 del V y el LEC es 1/3 del V .",
+      "options": [
+        "En el equilibrio, el volumen del LIC es de 23,98 lt",
+        "El ClNa inyectado se distribuye básicamente en el LEC.",
+        "En el equilibrio, el V es de 36 lt.",
+        "En el equilibrio, la osmolaridad es de 296,21 mOsm",
+        "En el equilibrio, el volumen del LEC es de 12,5lt."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        4
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 2: Compartimientos biológicos y transporte",
+          "year": 2024,
+          "drive_file_id": "1YdYi9CHilvTqFDgFtUDiCF0oExqxYW4I",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m2_q03",
+      "module": 2,
+      "number": 3,
+      "source_display_total": 5,
+      "type": "multiple",
+      "prompt": "Señale la/s respuesta/s correcta/s (puede haber mas de una) Si se produce una disminución marcada de la concentración de Na en el líquido extracelular",
+      "options": [
+        "Disminuye el volumen del líquido intracelular.",
+        "La osmolaridad del líquido intravascular disminuye.",
+        "Habrá flujo de agua hacia el interior de las células",
+        "La osmolaridad del líquido intersticial disminuye.",
+        "Esta será compensada por un aumento en la concentración extracelular de Cl ."
+      ],
+      "correct_option_indices": [
+        1,
+        2,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        5
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 2: Compartimientos biológicos y transporte",
+          "year": 2024,
+          "drive_file_id": "1YdYi9CHilvTqFDgFtUDiCF0oExqxYW4I",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m2_q04",
+      "module": 2,
+      "number": 4,
+      "source_display_total": 5,
+      "type": "single",
+      "prompt": "Señale la respuesta correcta (sólo una) Si la concentración extracelular de un soluto al cual la célula es permeable aumenta de 10 a 20 mM, mientras que la concentración intracelular se mantiene constante en 5 mM en ambas condiciones. ¿Cuántas veces aumenta el flujo difusional?",
+      "options": [
+        "2",
+        "4",
+        "10",
+        "3",
+        "5"
+      ],
+      "correct_option_indices": [
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        6
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 2: Compartimientos biológicos y transporte",
+          "year": 2024,
+          "drive_file_id": "1YdYi9CHilvTqFDgFtUDiCF0oExqxYW4I",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m2_q05",
+      "module": 2,
+      "number": 5,
+      "source_display_total": 5,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s El transportador GLUT-1 de glucosa tiene una Km de 1.5 mM. La glucemia (concentración de glucosa en plasma sanguíneo) en ayunas es 0,09 % P/V. El PM de la glucosa es 180. Entonces:",
+      "options": [
+        "Con una glucemia de 5 mmoles/l el GLUT-1 funciona al 77% de su velocidad máxima.",
+        "Con una glucemia de 1,5 mM el GLUT-1 funciona a su velocidad máxima.",
+        "Para que el GLUT-1 este ingresando glucosa a la célula en ayunas la concentración intracelular de glucosa plasmática debe ser > 5mM",
+        "El Glut-1 esta ingresando glucosa a la célula cualquiera sea la concentración intracelular de glucosa",
+        "Con una glucemia de 1 mM el GLUT-1 funciona a una velocidad < que el 50% de su velocidad máxima."
+      ],
+      "correct_option_indices": [
+        0,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        7
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 2: Compartimientos biológicos y transporte",
+          "year": 2024,
+          "drive_file_id": "1YdYi9CHilvTqFDgFtUDiCF0oExqxYW4I",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m2_q06",
+      "module": 2,
+      "number": 6,
+      "source_display_total": 5,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s",
+      "options": [
+        "En el equilibrio existe un potencial eléctrico que es más positivo en el extra que en el intra.",
+        "En el equilibrio, [Cl ]- intra < [Cl ]- extra",
+        "A t=0, para que se cumpla el principio de electroneutralidad, [Cl- ]extra debe de ser de 200 mmoles.",
+        "Si a t=0 ambos compartimientos se encuentran en electroneutralidad, entonces alcanzado el equilibrio se cumple que [Cl ]- extra = [K]- extra=99mmoles",
+        "En el equilibrio, la presión osmótica es de 1,118 atm e ingresa agua desde el extra al intra."
+      ],
+      "correct_option_indices": [
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        8
+      ],
+      "media": [
+        "assets/module_02_page_08_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 2 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1M15nB7LhlWXn4xWTqpeXiH-9iK4VRrBP",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    }
+  ],
+  "answer_key_status": {
+    "verified_questions": 6,
+    "total_questions": 6,
+    "indexing": "zero_based"
+  },
+  "provenance_note": "Las claves se cargaron únicamente cuando un archivo de revisión del Drive indicaba explícitamente la respuesta correcta; no se completaron por inferencia teórica."
+}

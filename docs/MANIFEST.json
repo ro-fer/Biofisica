@@ -1,0 +1,23 @@
+{
+  "question_banks": [
+    "modulo-1.json",
+    "modulo-2.json",
+    "modulo-3.json"
+  ],
+  "study_files": [
+    "resumen_estudio.md",
+    "plan_repaso.md",
+    "analisis_estudio.json",
+    "puntajes_modulos.csv",
+    "temas_a_revisar.csv"
+  ],
+  "sources_used_for_scores_and_feedback": [
+    "2024-10-05 - Módulo 1_ Metabolismo celular e interacción ligando-Rc.pdf",
+    "2024-10-05 - Módulo 2_ Compartimientos biológicos y transporte.pdf",
+    "2024-10-05 - Módulo 3_ Equilibrios ionicos.pdf",
+    "2021-11-27 M1.pdf",
+    "2021-07-17 Modulo 1.pdf",
+    "2021-07-17 Modulo 2.pdf"
+  ],
+  "important_note": "No se incluyen como archivos originales los PDFs del Drive; se listan como fuentes. Las claves de los bancos sí conservan la referencia al archivo fuente."
+}

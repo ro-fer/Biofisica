@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "module": 3,
+  "title": "Equilibrios ionicos",
+  "source_pdf": "Módulo 3_ Equilibrios ionicos _ Test.pdf",
+  "question_count": 5,
+  "questions": [
+    {
+      "id": "m3_q01",
+      "module": 3,
+      "number": 1,
+      "source_display_total": 4,
+      "type": "multiple",
+      "prompt": "Señale la/s respuesta/s correcta/s (puede haber más de una). En el espacio intracelular de una célula hay 140 mM de K y 50 mM de Mg . En el espacio intersticial hay 4 mM de K y 1 mM de Mg . La célula se encuentra a 37 C y su potencial de membrana Vm= -80 mV. Datos: R=8,314 V.Coul/K.mol; F=96500 coul/mol Entonces:",
+      "options": [
+        "La fuerza impulsora del Mg es de -27.8 mV.",
+        "La fuerza impulsora del Mg es hacia el interior de la célula",
+        "El polo negativo del potencial de Nerst de ambos iones se encuentra en el interior de la célula.",
+        "La fuerza impulsora del K es hacia el interior de la célula.",
+        "El potencial de Nerst del K es positivo."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        2
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        2
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 3: Equilibrios iónicos",
+          "year": 2024,
+          "drive_file_id": "1DxDfWBT_pCXcb4Wwpj7bnAHcWup6yk2z",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m3_q02",
+      "module": 3,
+      "number": 2,
+      "source_display_total": 4,
+      "type": "single_incorrect",
+      "prompt": "Señale la respuesta INCORRECTA (una sola) El potencial de membrana de reposo:",
+      "options": [
+        "Depende de la temperatura",
+        "Se calcula en una condición de equilibrio (Nernst)",
+        "Puede modificarse si se produce la apertura de canales iónicos",
+        "Depende de la permeabilidad de la membrana a los distintos iones",
+        "Puede cambiar si se modifica la concentración de K extracelular"
+      ],
+      "correct_option_indices": [
+        1
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        3
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 3: Equilibrios iónicos",
+          "year": 2024,
+          "drive_file_id": "1DxDfWBT_pCXcb4Wwpj7bnAHcWup6yk2z",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m3_q03",
+      "module": 3,
+      "number": 3,
+      "source_display_total": 4,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s Situación 1: a t=0, se tienen 2 compartimientos separados por una membrana semipermeable que separa 2 soluciones de ClNa de diferente concentración, pero además uno de los compartimientos tiene una macromolécula eléctricamente neutra. La membrana es permeable a los iones pero no a la macromolécula. Situación 2: igual a la situación 1 pero en este caso la macromolécula no difusible tiene carga positiva. Entonces:",
+      "options": [
+        "En la situación 1, para alcanzar el equilibrio, deberá establecerse una contra-presión osmótica cuyo valor dependerá solamente de la concentración de la macromolécula eléctricamente neutra.",
+        "En la situación 2, para alcanzar el equilibrio, deberá establecerse una contra-presión osmótica cuyo valor NO dependerá solamente de la concentración de la macromolécula eléctricamente positiva.",
+        "En la situación 2, si se alcanza el equilibrio, las concentraciones de Cl será mayor en el lado donde se encuentra la macromolécula eléctricamente positiva.",
+        "En la situación 1 las concentraciones de ClNa a ambos lados de la membrana tenderán a ser iguales",
+        "En la situación 2, si se alcanza el equilibrio, aparecerá una diferencia de potencial permanente de signo - en el compartimiento donde se encuentra la macromolécula no difusible de carga +."
+      ],
+      "correct_option_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        4,
+        5
+      ],
+      "media": [],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 3: Equilibrios iónicos",
+          "year": 2024,
+          "drive_file_id": "1DxDfWBT_pCXcb4Wwpj7bnAHcWup6yk2z",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m3_q04",
+      "module": 3,
+      "number": 4,
+      "source_display_total": 4,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correctas La siguiente tabla muestra la distribución intersticial e intracelular (a 37 C) de 3 iones cuantitativamente importantes en el organismo: Datos: F= 96500 coul/mol R= 8,31 J/K.mol J= coul x V Entonces:",
+      "options": [
+        "El potencial de equilibrio (Nernst) para el Cl- es -85,97 mV y su “polo positivo” esta en el intracelular.",
+        "El “polo negativo” del potencial de equilibrio (Nernst) para el K se encuentra en el intersticial.",
+        "El “polo negativo” del potencial de equilibrio (Nernst) para el Na se encuentra en el intersticio.",
+        "El potencial de equilibrio (Nernst) para el K es de -94,96 mv",
+        "El potencial de equilibrio (Nernst) para el Na es 61,3 mV."
+      ],
+      "correct_option_indices": [
+        2,
+        3,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        6
+      ],
+      "media": [
+        "assets/module_03_page_06_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2024-10-05 - Módulo 3: Equilibrios iónicos",
+          "year": 2024,
+          "drive_file_id": "1DxDfWBT_pCXcb4Wwpj7bnAHcWup6yk2z",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    },
+    {
+      "id": "m3_q05",
+      "module": 3,
+      "number": 5,
+      "source_display_total": 4,
+      "type": "multiple",
+      "prompt": "Indique la/s respuesta/s correcta/s",
+      "options": [
+        "A las 24hs, la actividad de Na+ en todo el volumen de plasma será de 58x10^6 desintegraciones/min.",
+        "La cantidad promedio de Na perdida por hora en orina es de 4 mmoles.",
+        "La cantidad total de Na intercambiable es de 2900 mmoles.",
+        "Si se considerara que la orina solo contiene ClNa, seria hipertónica con respecto al plasma sanguíneo.",
+        "La cantidad total de Na intercambiable es de 2,804 moles."
+      ],
+      "correct_option_indices": [
+        1,
+        4
+      ],
+      "answer_status": "verified_from_answer_key",
+      "source_pages": [
+        7
+      ],
+      "media": [
+        "assets/module_03_page_07_image_1.png"
+      ],
+      "notes": "Clave verificada contra un archivo de revisión de cuestionario que muestra explícitamente la(s) respuesta(s) correcta(s).",
+      "answer_sources": [
+        {
+          "title": "2021-07-17 Modulo 2 (intento 2020-09-26)",
+          "year": 2020,
+          "drive_file_id": "1M15nB7LhlWXn4xWTqpeXiH-9iK4VRrBP",
+          "kind": "quiz_review_with_answer_key"
+        }
+      ]
+    }
+  ],
+  "answer_key_status": {
+    "verified_questions": 5,
+    "total_questions": 5,
+    "indexing": "zero_based"
+  },
+  "provenance_note": "Las claves se cargaron únicamente cuando un archivo de revisión del Drive indicaba explícitamente la respuesta correcta; no se completaron por inferencia teórica."
+}
