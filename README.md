@@ -69,12 +69,15 @@ En lugar de usar el cuestionario solamente para obtener un puntaje, los resultad
 
 ---
 
-## 📊 Seguimiento del estudio
+📊 Seguimiento del estudio
 
-La aplicación utiliza los resultados para mostrar una hoja de ruta con temas que conviene revisar.
+La aplicación utiliza los resultados para mostrar una hoja de ruta orientativa con temas que podría ser útil revisar.
+
+🧪 Función en pruebas: el sistema de seguimiento y recomendaciones todavía está en desarrollo y puede no interpretar correctamente todos los resultados o situaciones de estudio.
+
+Por ahora, esta función debe tomarse como una ayuda complementaria y no como una evaluación definitiva del desempeño.
 
 Actualmente, el contenido está organizado en tres módulos y se complementa con información de desempeño y prioridades de repaso.
-
 ---
 
 ## 🗂️ Estructura del proyecto
